@@ -7,7 +7,7 @@ order: 0
 
 ## Construind Punți, Nu Ziduri
 
-**Ion Brînzilă** — Autor invitat, Moldova.org
+**Ion Brînzilă** CohesionLab / Moldova pentru Pace
 
 *Material pentru Club de Presă „Coeziunea socială în practică" | UNFPA Moldova | Decembrie 2025*
 
